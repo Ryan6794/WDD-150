@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+#active {
+  background-color: rgba(70, 131, 180, 0.41);
+  color: rgb(126, 182, 227);
+}
+
 body 
 {
     
@@ -12,8 +18,13 @@ nav
 {
     background-color: rgba(70, 131, 180, 0.41);
     padding: 10px;
+
 }
 
+.main-para {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
 
 a 
 {
