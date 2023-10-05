@@ -1,0 +1,41 @@
+
+body {
+    background-color: pink;
+
+}
+
+
+p{
+    text-align: center;
+
+}
+
+
+
+.white{
+    color: white;
+}
+
+/* *{
+    border: 2px solid blue;
+} */
+
+back
+
+
+
+p{
+    width: 40px;
+}
+
+img{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+img:hover{
+
+    color: white;
+}
