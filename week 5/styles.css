@@ -1,0 +1,30 @@
+
+
+/* h1{
+    text-align: right;
+}
+
+p{
+    text-align: right;
+} */
+
+img{
+    border-radius: 50%; 
+    border: 15px solid rgb(71, 71, 71);
+    width: 20%;
+    margin: 80px;
+
+}
+
+
+body{
+    margin: 0px;
+    background-color: rgb(110, 110, 110);
+}
+
+header img{
+    margin: 0;
+    border: none;
+    border-radius: 0%;
+    width: 100%;
+} 
