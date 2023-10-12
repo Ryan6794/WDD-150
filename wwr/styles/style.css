@@ -83,6 +83,7 @@ nav a:hover {
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
+    
     text-align: center;
     font-size: 18px;
 }
@@ -91,19 +92,6 @@ nav a:hover {
 .join:hover {
     background-color: #4ce2e4;
     color: black;
-}
-
-.msg {
-    background-color: #22577A;
-    padding: 35px;
-    line-height: 1.5 em;
-}
-
-footer {
-    background-color: #22577A;
-    color: #4ce2e4;
-    padding: 25px 50px;
-    margin-top: 200px;
 }
 
 
@@ -118,6 +106,12 @@ h1{
     text-align: center;
 }
 
+.msg {
+    background-color: #22577A;
+    padding: 35px;
+    line-height: 1.5 em;
+}
+
 .msg h2 {
     color: #4ce2e4;
     font-family: 'Mooli', 'Arial', 'sans-serif';
@@ -125,15 +119,22 @@ h1{
     margin: 0;
 }
 
+.msg p {
+    color: #4ce2e4;
+    padding-bottom: 15px;
+    font-size: .8em;
+}
+
 .home-title{
     font-family: 'Mooli', 'Arial', 'sans-serif';
     font-size: 2em;
 }
 
-.msg p {
+footer {
+    background-color: #22577A;
     color: #4ce2e4;
-    padding-bottom: 15px;
-    font-size: .8em;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer a {
