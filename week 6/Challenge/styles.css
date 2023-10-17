@@ -1,0 +1,22 @@
+
+
+.grid-me{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#title{
+    text-align: center;
+    font-size: 8em;
+    z-index: 1;
+    grid-column:1/2;
+    align-self: center;
+}
+
+#cherry_text{
+    color: darkred;
+    font-size: 4em;
+    text-align: center;
+    background-color: grey;
+
+}
