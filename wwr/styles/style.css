@@ -238,6 +238,53 @@ footer p a:hover{
 }
 
 
+/* Rates and Dates */
+
+.rates_main{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    
+}
+
+.rates{
+    color: #104f78;
+    background-color: #1c9d86;
+    text-align: left;
+    margin: 10px;
+
+}
+
+.rivers_pics{
+    max-width: 400px;
+    max-height: 350px;
+    margin: 10px;
+}
+
+.cost{
+    text-align: center;
+    margin: 10px;
+    background-color: #1c9d86;
+    color: #104f78;
+}
+
+.rate_headers{
+    text-align: left;
+    margin: 10px;
+    color: #104f78;
+}
+
+.rate-text{
+    text-align: left;
+    margin: 10px;
+}
+
+
+
+
+
+
 @media screen and (max-width: 900px) 
 {
     #hero, .home-grid {
