@@ -241,9 +241,13 @@ footer p a:hover{
 /* Rates and Dates */
 
 .rates_main{
+    text-align: center;
+}
+
+.rates_grid{
     margin: 0;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
 
     
 }
@@ -256,7 +260,7 @@ footer p a:hover{
 
 }
 
-.rivers_pics{
+.river_pics{
     max-width: 400px;
     max-height: 350px;
     margin: 10px;
