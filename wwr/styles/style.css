@@ -92,10 +92,9 @@ body {
 }
 
 
-
 header {
     background-color: #22577A;
-    color: #4ce2e4;
+    color: gray;
     display: grid;
     grid-template-columns: 150px auto;
 
