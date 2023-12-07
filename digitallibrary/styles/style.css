@@ -121,6 +121,8 @@ nav a:hover {
 .author_img{
     float: left;
     margin: 10px;
+    max-width: 125;
+    max-height: 150;
 }
 
 .logo{
